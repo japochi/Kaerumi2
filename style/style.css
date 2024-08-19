@@ -30,7 +30,7 @@ body {
 .header__menu__link{
     font-family: var(--fuente-montserrat);
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 1100;
     color: var(--color-secundario);
     text-decoration: none;
     
